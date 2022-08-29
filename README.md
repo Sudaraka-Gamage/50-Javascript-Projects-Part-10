@@ -1,1 +1,3 @@
-# 50-Javascript-Projects-Part-10
+# todos-app
+# verify-account-ui
+# verticle-slider
