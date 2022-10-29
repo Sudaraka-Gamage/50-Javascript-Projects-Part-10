@@ -10,4 +10,8 @@
 ![Screenshot (2081)](https://user-images.githubusercontent.com/86683029/198193252-8c82b443-7da1-4807-a5a0-3fbe1373fc02.png)
 
 # Verticle-Slider
+![Screenshot (2082)](https://user-images.githubusercontent.com/86683029/198814031-a1e1bd13-ad5b-44bb-bf2f-43fc6f15f6ee.png)
+![Screenshot (2083)](https://user-images.githubusercontent.com/86683029/198814042-6f3df519-e33f-4e85-942b-9d172baefa53.png)
+![Screenshot (2084)](https://user-images.githubusercontent.com/86683029/198814043-606f56af-a75d-4ec7-bba7-e316fd623fee.png)
+![Screenshot (2085)](https://user-images.githubusercontent.com/86683029/198814047-ca2d9539-67e2-4fa0-85d2-4fd71c8fa51e.png)
 
